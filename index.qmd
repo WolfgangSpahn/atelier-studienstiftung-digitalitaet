@@ -1,0 +1,404 @@
+---
+title: "Digitalität im Unterricht"
+subtitle: |
+  Lernen mit KI auf Augenhöhe!
+  <br><br>
+  *Wolfgang Spahn*
+  <br><br>
+  28.04.2025
+  <br>
+
+format: 
+  revealjs: 
+    config:
+      touch: false
+    controls: true
+    smaller: true
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/myLogo.svg
+    footer: Dr. Wolfgang Spahn
+    css: [styles.css, custom-styles.css]  # Include your custom CSS file here
+    include-in-header: includes.html
+resources:
+  - interaktive.pdf
+---
+
+## Infos
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+<br><br>
+Zum Starten des Ateliers bitte diesen Link verwenden:
+<br>
+<h1  class="centered-text">sebayt.ch</h1>
+<br>
+Für Vollbildmodus bitte diesen Button "Fullscreen" klicken oder Taste "F11".
+<br><br>
+<button onclick="goFullScreen()" class="centered-xxl-rounded-button">Fullscreen</button>
+<br><br>
+<div class="centered-xs-text"> Server IP: <div type="showIPSocket" id="ip-socket"></div></div>
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## Willkommen im Atelier
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+<div type="teamCollection" id="team-collection1"></div>
+
+## Agenda
+
+- Was Digitale Transformation bedeutet
+- Mit KI auf Augenhöhe arbeiten
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## _
+
+<br><br><br><br>
+
+::: {.centered-xxl-text}
+Digitale Transformation 2025?
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## Digitale Transformation
+
+Geistige Tätigkeiten befindet sich in einem tiefgreifenden Wandel.
+<br><br>
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![19. Jahrhundert](images/Cognitive_work_19Cent.png){width="80%"}
+:::
+::: {.column width="50%"}
+
+![21. Jahrhundert](images/Cognitive_work_21Cent.png){width="80%"}
+:::
+::::
+
+<br>
+**Was heisst das für uns, für die Schule, für den Unterricht?**
+
+:::{.notes}
+Noch vor 100 Jahren waren gebildete Menschen in der Lage, zentrale Tätigkeiten ihres Alltags – wie Schreiben, Reparieren, Argumentieren oder Produzieren – selbst zu verstehen, anzuwenden und kritisch zu reflektieren. 
+
+Heute sind digitale Systeme die primäre Schnittstelle zum Herstellen, zum Inhalt und den Umgang damit.
+
+Wird der Umgang digitalen Lehrmedien und Lehrmittel nicht mit einem tiefen Verständnis verbunden, besteht die Gefahr, dass Lernende zwar Nutzer:innen, aber keine selbstbestimmten Gestalter:innen der digitalen Welt werden.
+
+Echte digitale Bildung muss also über das Bedienen hinausgehen – hin zum Verstehen, Hinterfragen und Mitgestalten.
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Diskussion 1/2
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Wo seht Ihr den Digitalen Wandel?**
+
+<div type="inputField" id="inputField1"></div>
+
+:::
+::: {.column width="50%"}
+
+<div type="inputCollection" ref="inputField1" argConfig='{ "width": 500, "height": 400, "hidden": false }'></div>
+
+:::
+::::
+
+- [GPT 4o](https://chatgpt.com/?oai-dm=1&model=gpt-4o)
+
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Diskussion 1/2
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Was bedeutet das für die Schule den Unterricht?**
+
+<div type="inputField" id="inputField2"></div>
+
+:::
+::: {.column width="50%"}
+
+<div type="inputCollection" ref="inputField2" argConfig='{ "width": 500, "height": 400, "hidden": false }'></div>
+
+:::
+::::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## Seymour Papert - 1980
+
+<br><br><br>
+
+:::{.centered-xl-text}
+**„The role of the teacher is to create the conditions for invention rather than provide ready-made knowledge.“**
+:::
+
+<br><br><br>
+
+::: {.small}
+Schüler von Jean Piaget und Mitbegründer des MIT Media Lab. Er entwickelte die Programmiersprache Logo und das Konzept des „Konstruktivismus“.
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## _
+
+<br><br><br><br>
+
+::: {.centered-xxl-text}
+Arbeiten mit KI auf Augenhöhe
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Technische Zeichnungen
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Prompt**: Bitte zeichne ein rechtwinkliges Dreieck, das in einem Kreis liegt, im Stil technisches Zeichnen. Zeichne den rechten Winkel ein.
+
+![Dreieck im Kreis](images/DALL·E_right-angled_triangle.webp){width="50%"}
+
+:::
+::: {.column width="50%"}
+- **Prompt**: Leo hat aus 27 kleinen, gleich grossen Würfeln einen grossen 3× 3× 3-Würfel gebaut. Die kleinen Würfel sind schwarz, grau oder weiss. Die Oberfläche des grossen Würfels ist jeweils zu einem Drittel schwarz, grau und weiss. Bitte hilf schon einmal bei der Visualisierung des Problems in **matplotlib python**.
+
+![Würfel](images/WuerfeproblemFig1.png){width="50%"}
+
+:::
+::::
+
+- [GPT 4o](https://chatgpt.com/?oai-dm=1&model=gpt-4o)
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Technische Zeichnungen
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- **Prompt**: Zeichne ein rechtwinkliges Dreieck mit matplotlib python, das in einem Kreis liegt, im Still des technischen Zeichnens. Die Hypothenuse ist identisch mit dem Durchmesser. Zeichne den rechten winkel \angle{ACB} ein.
+
+- **Ist der rechte Winkel richtig markiert?**
+
+<div type="inputField" id="inputField5"></div>
+
+:::
+::: {.column width="50%"}
+
+<div type="inputCollection" ref="inputField5" argConfig='{ "width": 500, "height": 400, "hidden": false }'></div>
+
+:::
+::::
+
+- [GPT 4o](https://chatgpt.com/?oai-dm=1&model=gpt-4o)
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Gute Prompts für Bilder 1/2
+
+Wenn der Mensch sich an vergangene Situationen erinnert, hat er mehr eine Beschreibung im Kopf als ein fotorealistisches Bild. Mit dieser Beschreibung erzeugen wir dann ein Bild in der Vorstellung. So ähnlich funktioniert auch die KI.
+
+  - Beschreibe die **Szene**, die Du sehen möchtest, so detailliert wie möglich.
+    - Was ist auf dem Bild zu sehen?
+    - Welche Farben, Formen, Grössen, Positionen, ...
+    - Welche Stimmung soll das Bild haben?
+    - Welche Perspektive?
+    - Welche Lichtverhältnisse?
+    - Welche Details sind wichtig?
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Gute Prompts für Bilder 2/2
+
+Es ist wie beim Drehbuch schreiben. Die Szenenbeschreibung ist der Input für die KI. Alles was Du nicht beschreibst, wird "Durchschnitt"
+
+  - Beschreibe die **Technik** in der das Bild erstellt werden soll.
+    - Fotografie, Malerei, Zeichnung, ...
+    - Welche Stilrichtung? Realistisch, abstrakt, impressionistisch, ...
+    - Welche Technik? Aquarell, Öl, Bleistift, ...
+    - Im Stil von welchem Künstler? Aber auch im Stil von Jules Verne, Albert Einstein, Edgar Allan Poe, ...
+  - Beschreibe die **Bildkomposition**.
+    - Welche Elemente sind wichtig? Vordergrund, Hintergrund, ...
+    - Welche Bildaufteilung? Goldener Schnitt, ...
+    - Welche Bildaussage? Was soll das Bild aussagen?
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Was meint ihr?
+<br><br>
+
+Das hat geholfen, um Bilder zu kreieren!
+
+<div type="pollField" id="pollField3"></div>
+<div type="pollPercentage" ref="pollField3" class="centered-xxl-text"></div>
+
+<!-- =================================================== slide ===================================================== -->
+## _
+
+<br><br><br><br>
+
+::: {.centered-xxl-text}
+Vom Prompt zum Dialog
+:::
+
+::: {.centered-text}
+Wir nutzen neuronale Netze zur Verarbeitung von Wissen mit Text und Computercode.
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Funktionenzeichnen mit KI
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+Bitte gib mir den Matplotlib code um die function y = x³-3x²-9x+27 zu zeichnen. Verwende das Canvas.
+
+- Und nun beginnen wir einen Dialog über Nullstellen, Extrema, Wendepunkte, ... .
+
+:::
+::: {.column width="50%"}
+
+![](images/Kurvendiskussion1.png){width="80%"}
+
+:::
+::::
+
+- [GPT 4o](https://chatgpt.com/?oai-dm=1&model=gpt-4o)
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Im Dialog mit KI
+
+Richtig gute Ergebnisse erzielt man nicht mit einem prompt. Es braucht einen Dialog auf Augenhöhe.
+
+  - **Definiere Deine Ziele** erstmal für Dich selbst.
+  - Überlege, wie Du die **KI dazu bringen kannst**, Deine Ziele zu erreichen.
+  - Gehe methodisch vor, **Schritt für Schritt**. Verlange nicht zu viel auf einmal.
+  - Verstehe und **analysiere die Antworten der KI**. Worauf läuft das hinaus?
+  - **Fragt nach**, wenn Du nicht sicher bist, ob die KI Eure Anweisungen verstanden hat.
+  - Lasst die KI Ihre **eigene Antworten checken**. Sie kann sich selbst korrigieren.
+  - Wenn Du eine **zweite Methode** hast die KI zu checken super. Spiegele die Fehler zurück zur KI.
+  - **Geduld**. Die KI ist nicht perfekt. Sie kann nicht alles wissen. Sie kann nicht alles lernen.
+
+<!-- =================================================== slide ===================================================== -->
+## _
+
+<br><br><br><br>
+
+::: {.centered-xxl-text}
+Echte KI/Mensch Zusammenarbeit
+:::
+
+::: {.centered-text}
+Wie lösen wir komplexe Aufgaben mit KI durch einen Dialog auf Augenhöhe?
+:::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## Wir zeichnen ein Comic
+
+:::: {.columns}
+::: {.column width="50%"}
+Comic Zeichnen ist richtig aufwendig. ChatGPT kann uns dabei helfen. Die Story muss aber von uns kommen.
+
+- Storyline: Die Geschichte in einem Satz.
+- Storyboard: Wie sieht die Geschichte aus? 
+- Bildbeschreibung: Was ist auf den einzelnen Bildern zu sehen?
+- Dialoge: Was sagen die Figuren?
+- Zeichnungen: Zeichen die Bilder.
+- Zusammenfügen: In einem Graphikprogram, füge die Bilder und Dialoge zusammen.
+
+:::
+::: {.column width="50%"}
+![](images/comic.webp){width="70%"}
+:::
+::::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Schwierige Kreuzworträtsel
+
+ChatGPT ist nicht wirklich gut in Kreuzworträtseln. Wir auch nicht. Gemeinsam schaffen wir es vielleicht.
+
+### Aufgabe
+
+:::: {.columns}
+::: {.column width="40%"}
+![](images/raetsel.png)
+:::
+::: {.column width="60%" .small}
+1	- Sammlungsaffiner Sehenswerturteiler <br>
+2	- Schmiegt sich, letztendlich damenhaft, an Wüstenregionen <br>
+3	- Passt zwischen Jung und Fahrt, auch wenn die gar nicht so weit geht <br>
+4	- Ungewöhnlich sichtbares Obst? Vergleichsweise Wohlgehüteter! <br>
+5	- Auf manch legerer <6 senkrecht: Feier> werden ihre Achtel in die Runde gegeben <br>
+6	- Wäre 2025 angemessen für Schweitzers 150. Oder Kehlmanns 50 <br>
+7	- Tierische Ausgrenzung <br>
+8	- Sterben müssen bleibe mir <3 senkrecht: fern>, doch tot sein – das ist mir … (Epicharm) <br>
+9	- Der ganze Mai liegt in ihren Zeichen, Wörtern, Sätzen, Seiten <br>
+10	- Soziale Bewegungform <br>
+11	- Darin treffen sich die Größten der Großen zum Ballspielen, aber nur kurz <br>
+12	- Ende der Welt, mit dem Wolfgang Amadeus’ Vater mitunterschrieb <br>
+13	- Mahnmal der Verwundbarkeit <br>
+:::
+::::
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Kurvendiscussion mit KI
+
+Wir wollen uns die Konzepte der Kurvendiskussion genauer anschauen. ChatGPT soll uns dabei helfen.
+
+### Aufgabe
+
+Diskutiere und verstehe die Funktion y = x³-2x²-x+2.
+
+- Kurvenverlauf, Nullstellen, Extrema und Wendepunkte etc.?
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+
+## Schwieriges Math-Problem
+
+Wir haben ein schwieriges Mathematikproblem. ChatGPT soll uns dabei helfen. ChatGPT stösst an seine Grenzen. Wir auch.
+Wir probieren es gemeinsam.
+
+### Aufgabe
+
+Nina hat einen Kreis mit 20 Punkten in 20 gleich lange Kreisbögen geteilt.
+Sie zeichnet alle Sehnen ein, die zwei dieser Punkte verbinden. Wie viele dieser
+Sehnen sind länger als der Radius, aber kürzer als der Durchmesser des Kreises?
+
+(A) 90 (B) 100 (C) 120 (D) 140 (E ) 160
+
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## ChatGPT Uebung
+
+Bitte bildet 4 Gruppen und wählt eine Aufgabenstellung aus.
+<br><br>
+
+Wir treffen uns in 45 Minuten wieder hier.
+<br><br>
+
+Wenn Ihr Fragen habt, könnt Ihr mich jederzeit ansprechen.
+<br><br>
+
+<!-- --------------------------------------------------- slide ----------------------------------------------------- -->
+## _ {#please_vote_id}
+
+<br><br><br><br>
+
+::: {.centered-xxl-text}
+ _-_ Danke für die Aufmerksamkeit _-_
+ <br>
+[>/](https://wolfgangspahn.github.io/intro-IS2-KI-research.github.io)
+:::
+
