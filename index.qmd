@@ -31,7 +31,7 @@ resources:
 <br><br>
 Zum Starten des Ateliers bitte diesen Link verwenden:
 <br>
-<h1  class="centered-text">sebayt.ch</h1>
+<h2  class="centered-text">sebayt.ch/docs/</h1>
 <br>
 Für Vollbildmodus bitte diesen Button "Fullscreen" klicken oder Taste "F11".
 <br><br>
