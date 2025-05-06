@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "index.html#infos",
+    "href": "index.html#infos",
+    "title": "Digitalität im Unterricht",
+    "section": "Infos",
+    "text": "Infos\n\n Zum Starten des Ateliers bitte diesen Link verwenden: \n\nsebayt.ch/docs/\n\n Für Vollbildmodus bitte diesen Button “Fullscreen” klicken oder Taste “F11”.  Fullscreen \n\nServer IP:"
+  },
+  {
+    "objectID": "index.html#willkommen-im-atelier",
+    "href": "index.html#willkommen-im-atelier",
+    "title": "Digitalität im Unterricht",
+    "section": "Willkommen im Atelier",
+    "text": "Willkommen im Atelier"
+  },
+  {
+    "objectID": "index.html#agenda",
+    "href": "index.html#agenda",
+    "title": "Digitalität im Unterricht",
+    "section": "Agenda",
+    "text": "Agenda\n\nWas Digitale Transformation bedeutet\nMit KI auf Augenhöhe arbeiten"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Digitalität im Unterricht",
+    "section": "_",
+    "text": "_\n\n\nDigitale Transformation 2025?"
+  },
+  {
+    "objectID": "index.html#digitale-transformation",
+    "href": "index.html#digitale-transformation",
+    "title": "Digitalität im Unterricht",
+    "section": "Digitale Transformation",
+    "text": "Digitale Transformation\nGeistige Tätigkeiten befindet sich in einem tiefgreifenden Wandel. \n\n\n\n\n\n19. Jahrhundert\n\n\n\n\n\n\n21. Jahrhundert\n\n\n\n Was heisst das für uns, für die Schule, für den Unterricht?\n\nNoch vor 100 Jahren waren gebildete Menschen in der Lage, zentrale Tätigkeiten ihres Alltags – wie Schreiben, Reparieren, Argumentieren oder Produzieren – selbst zu verstehen, anzuwenden und kritisch zu reflektieren.\nHeute sind digitale Systeme die primäre Schnittstelle zum Herstellen, zum Inhalt und den Umgang damit.\nWird der Umgang digitalen Lehrmedien und Lehrmittel nicht mit einem tiefen Verständnis verbunden, besteht die Gefahr, dass Lernende zwar Nutzer:innen, aber keine selbstbestimmten Gestalter:innen der digitalen Welt werden.\nEchte digitale Bildung muss also über das Bedienen hinausgehen – hin zum Verstehen, Hinterfragen und Mitgestalten."
+  },
+  {
+    "objectID": "index.html#diskussion-12",
+    "href": "index.html#diskussion-12",
+    "title": "Digitalität im Unterricht",
+    "section": "Diskussion 1/2",
+    "text": "Diskussion 1/2\n\n\n\nWo seht Ihr den Digitalen Wandel?\n\n\n\n\n\n\n\n\n\n\nGPT 4o"
+  },
+  {
+    "objectID": "index.html#diskussion-12-1",
+    "href": "index.html#diskussion-12-1",
+    "title": "Digitalität im Unterricht",
+    "section": "Diskussion 1/2",
+    "text": "Diskussion 1/2\n\n\n\nWas bedeutet das für die Schule den Unterricht?"
+  },
+  {
+    "objectID": "index.html#seymour-papert---1980",
+    "href": "index.html#seymour-papert---1980",
+    "title": "Digitalität im Unterricht",
+    "section": "Seymour Papert - 1980",
+    "text": "Seymour Papert - 1980\n\n\n„The role of the teacher is to create the conditions for invention rather than provide ready-made knowledge.“\n\n\n\nSchüler von Jean Piaget und Mitbegründer des MIT Media Lab. Er entwickelte die Programmiersprache Logo und das Konzept des „Konstruktivismus“."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Digitalität im Unterricht",
+    "section": "_",
+    "text": "_\n\n\nArbeiten mit KI auf Augenhöhe"
+  },
+  {
+    "objectID": "index.html#technische-zeichnungen",
+    "href": "index.html#technische-zeichnungen",
+    "title": "Digitalität im Unterricht",
+    "section": "Technische Zeichnungen",
+    "text": "Technische Zeichnungen\n\n\n\nPrompt: Bitte zeichne ein rechtwinkliges Dreieck, das in einem Kreis liegt, im Stil technisches Zeichnen. Zeichne den rechten Winkel ein.\n\n\n\n\nDreieck im Kreis\n\n\n\n\nPrompt: Leo hat aus 27 kleinen, gleich grossen Würfeln einen grossen 3× 3× 3-Würfel gebaut. Die kleinen Würfel sind schwarz, grau oder weiss. Die Oberfläche des grossen Würfels ist jeweils zu einem Drittel schwarz, grau und weiss. Bitte hilf schon einmal bei der Visualisierung des Problems in matplotlib python.\n\n\n\n\nWürfel\n\n\n\n\nGPT 4o"
+  },
+  {
+    "objectID": "index.html#technische-zeichnungen-1",
+    "href": "index.html#technische-zeichnungen-1",
+    "title": "Digitalität im Unterricht",
+    "section": "Technische Zeichnungen",
+    "text": "Technische Zeichnungen\n\n\n\nPrompt: Zeichne ein rechtwinkliges Dreieck mit matplotlib python, das in einem Kreis liegt, im Still des technischen Zeichnens. Die Hypothenuse ist identisch mit dem Durchmesser. Zeichne den rechten winkel ein.\nIst der rechte Winkel richtig markiert?\n\n\n\n\n\n\n\n\n\n\nGPT 4o"
+  },
+  {
+    "objectID": "index.html#gute-prompts-für-bilder-12",
+    "href": "index.html#gute-prompts-für-bilder-12",
+    "title": "Digitalität im Unterricht",
+    "section": "Gute Prompts für Bilder 1/2",
+    "text": "Gute Prompts für Bilder 1/2\nWenn der Mensch sich an vergangene Situationen erinnert, hat er mehr eine Beschreibung im Kopf als ein fotorealistisches Bild. Mit dieser Beschreibung erzeugen wir dann ein Bild in der Vorstellung. So ähnlich funktioniert auch die KI.\n\nBeschreibe die Szene, die Du sehen möchtest, so detailliert wie möglich.\n\nWas ist auf dem Bild zu sehen?\nWelche Farben, Formen, Grössen, Positionen, …\nWelche Stimmung soll das Bild haben?\nWelche Perspektive?\nWelche Lichtverhältnisse?\nWelche Details sind wichtig?"
+  },
+  {
+    "objectID": "index.html#gute-prompts-für-bilder-22",
+    "href": "index.html#gute-prompts-für-bilder-22",
+    "title": "Digitalität im Unterricht",
+    "section": "Gute Prompts für Bilder 2/2",
+    "text": "Gute Prompts für Bilder 2/2\nEs ist wie beim Drehbuch schreiben. Die Szenenbeschreibung ist der Input für die KI. Alles was Du nicht beschreibst, wird “Durchschnitt”\n\nBeschreibe die Technik in der das Bild erstellt werden soll.\n\nFotografie, Malerei, Zeichnung, …\nWelche Stilrichtung? Realistisch, abstrakt, impressionistisch, …\nWelche Technik? Aquarell, Öl, Bleistift, …\nIm Stil von welchem Künstler? Aber auch im Stil von Jules Verne, Albert Einstein, Edgar Allan Poe, …\n\nBeschreibe die Bildkomposition.\n\nWelche Elemente sind wichtig? Vordergrund, Hintergrund, …\nWelche Bildaufteilung? Goldener Schnitt, …\nWelche Bildaussage? Was soll das Bild aussagen?"
+  },
+  {
+    "objectID": "index.html#was-meint-ihr",
+    "href": "index.html#was-meint-ihr",
+    "title": "Digitalität im Unterricht",
+    "section": "Was meint ihr?",
+    "text": "Was meint ihr?\n\nDas hat geholfen, um Bilder zu kreieren!"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Digitalität im Unterricht",
+    "section": "_",
+    "text": "_\n\n\nVom Prompt zum Dialog\n\n\nWir nutzen neuronale Netze zur Verarbeitung von Wissen mit Text und Computercode."
+  },
+  {
+    "objectID": "index.html#funktionenzeichnen-mit-ki",
+    "href": "index.html#funktionenzeichnen-mit-ki",
+    "title": "Digitalität im Unterricht",
+    "section": "Funktionenzeichnen mit KI",
+    "text": "Funktionenzeichnen mit KI\n\n\nBitte gib mir den Matplotlib code um die function y = x³-3x²-9x+27 zu zeichnen. Verwende das Canvas.\n\nUnd nun beginnen wir einen Dialog über Nullstellen, Extrema, Wendepunkte, … .\n\n\n\n\n\nGPT 4o"
+  },
+  {
+    "objectID": "index.html#im-dialog-mit-ki",
+    "href": "index.html#im-dialog-mit-ki",
+    "title": "Digitalität im Unterricht",
+    "section": "Im Dialog mit KI",
+    "text": "Im Dialog mit KI\nRichtig gute Ergebnisse erzielt man nicht mit einem prompt. Es braucht einen Dialog auf Augenhöhe.\n\nDefiniere Deine Ziele erstmal für Dich selbst.\nÜberlege, wie Du die KI dazu bringen kannst, Deine Ziele zu erreichen.\nGehe methodisch vor, Schritt für Schritt. Verlange nicht zu viel auf einmal.\nVerstehe und analysiere die Antworten der KI. Worauf läuft das hinaus?\nFragt nach, wenn Du nicht sicher bist, ob die KI Eure Anweisungen verstanden hat.\nLasst die KI Ihre eigene Antworten checken. Sie kann sich selbst korrigieren.\nWenn Du eine zweite Methode hast die KI zu checken super. Spiegele die Fehler zurück zur KI.\nGeduld. Die KI ist nicht perfekt. Sie kann nicht alles wissen. Sie kann nicht alles lernen."
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Digitalität im Unterricht",
+    "section": "_",
+    "text": "_\n\n\nEchte KI/Mensch Zusammenarbeit\n\n\nWie lösen wir komplexe Aufgaben mit KI durch einen Dialog auf Augenhöhe?"
+  },
+  {
+    "objectID": "index.html#wir-zeichnen-ein-comic",
+    "href": "index.html#wir-zeichnen-ein-comic",
+    "title": "Digitalität im Unterricht",
+    "section": "Wir zeichnen ein Comic",
+    "text": "Wir zeichnen ein Comic\n\n\nComic Zeichnen ist richtig aufwendig. ChatGPT kann uns dabei helfen. Die Story muss aber von uns kommen.\n\nStoryline: Die Geschichte in einem Satz.\nStoryboard: Wie sieht die Geschichte aus?\nBildbeschreibung: Was ist auf den einzelnen Bildern zu sehen?\nDialoge: Was sagen die Figuren?\nZeichnungen: Zeichen die Bilder.\nZusammenfügen: In einem Graphikprogram, füge die Bilder und Dialoge zusammen."
+  },
+  {
+    "objectID": "index.html#schwierige-kreuzworträtsel",
+    "href": "index.html#schwierige-kreuzworträtsel",
+    "title": "Digitalität im Unterricht",
+    "section": "Schwierige Kreuzworträtsel",
+    "text": "Schwierige Kreuzworträtsel\nChatGPT ist nicht wirklich gut in Kreuzworträtseln. Wir auch nicht. Gemeinsam schaffen wir es vielleicht.\nAufgabe\n\n\n\n\n1 - Sammlungsaffiner Sehenswerturteiler  2 - Schmiegt sich, letztendlich damenhaft, an Wüstenregionen  3 - Passt zwischen Jung und Fahrt, auch wenn die gar nicht so weit geht  4 - Ungewöhnlich sichtbares Obst? Vergleichsweise Wohlgehüteter!  5 - Auf manch legerer &lt;6 senkrecht: Feier&gt; werden ihre Achtel in die Runde gegeben  6 - Wäre 2025 angemessen für Schweitzers 150. Oder Kehlmanns 50  7 - Tierische Ausgrenzung  8 - Sterben müssen bleibe mir &lt;3 senkrecht: fern&gt;, doch tot sein – das ist mir … (Epicharm)  9 - Der ganze Mai liegt in ihren Zeichen, Wörtern, Sätzen, Seiten  10 - Soziale Bewegungform  11 - Darin treffen sich die Größten der Großen zum Ballspielen, aber nur kurz  12 - Ende der Welt, mit dem Wolfgang Amadeus’ Vater mitunterschrieb  13 - Mahnmal der Verwundbarkeit"
+  },
+  {
+    "objectID": "index.html#kurvendiscussion-mit-ki",
+    "href": "index.html#kurvendiscussion-mit-ki",
+    "title": "Digitalität im Unterricht",
+    "section": "Kurvendiscussion mit KI",
+    "text": "Kurvendiscussion mit KI\nWir wollen uns die Konzepte der Kurvendiskussion genauer anschauen. ChatGPT soll uns dabei helfen.\nAufgabe\nDiskutiere und verstehe die Funktion y = x³-2x²-x+2.\n\nKurvenverlauf, Nullstellen, Extrema und Wendepunkte etc.?"
+  },
+  {
+    "objectID": "index.html#schwieriges-math-problem",
+    "href": "index.html#schwieriges-math-problem",
+    "title": "Digitalität im Unterricht",
+    "section": "Schwieriges Math-Problem",
+    "text": "Schwieriges Math-Problem\nWir haben ein schwieriges Mathematikproblem. ChatGPT soll uns dabei helfen. ChatGPT stösst an seine Grenzen. Wir auch. Wir probieren es gemeinsam.\nAufgabe\nNina hat einen Kreis mit 20 Punkten in 20 gleich lange Kreisbögen geteilt. Sie zeichnet alle Sehnen ein, die zwei dieser Punkte verbinden. Wie viele dieser Sehnen sind länger als der Radius, aber kürzer als der Durchmesser des Kreises?\n\n90 (B) 100 (C) 120 (D) 140 (E ) 160"
+  },
+  {
+    "objectID": "index.html#chatgpt-uebung",
+    "href": "index.html#chatgpt-uebung",
+    "title": "Digitalität im Unterricht",
+    "section": "ChatGPT Uebung",
+    "text": "ChatGPT Uebung\nBitte bildet 4 Gruppen und wählt eine Aufgabenstellung aus. \nWir treffen uns in 45 Minuten wieder hier. \nWenn Ihr Fragen habt, könnt Ihr mich jederzeit ansprechen."
+  },
+  {
+    "objectID": "index.html#please_vote_id",
+    "href": "index.html#please_vote_id",
+    "title": "Digitalität im Unterricht",
+    "section": "_",
+    "text": "_\n\n\n- Danke für die Aufmerksamkeit -  &gt;/"
+  }
+]
